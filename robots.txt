@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /monespace/
+Disallow: /includes/
+Disallow: /config/
+Disallow: /handlers/
+Disallow: /lang/
+
+Sitemap: https://www.yourdomain.com/sitemap.xml
